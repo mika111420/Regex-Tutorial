@@ -58,10 +58,11 @@ Within `[...]`, `[a-z\.]` matches any lowercase letter or dot. Its usage is to m
 Employing the `*` and `*?` quantifiers, we have two matching styles for this regex. The `*` is greedy in its matching style and grabs plenty of characters, while the `*?` is lazy and grabs as few as possible.
 
 ### Boundaries
-
-
+Imagine like a bookmark, the `^` and `$` in the URL regex are pinpoints of the strings beginning and end. With this usage, the entire URL, not just a snippet of it, is the focus of the pattern match. 
 
 ### Back-references
+
+With regular expressions, a backreference is a method of matching the same text as previously matched by a capturing group. In our URL regex, back refrences are not used here. 
 
 ### Look-ahead and Look-behind
 
