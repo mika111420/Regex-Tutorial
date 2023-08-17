@@ -1,6 +1,6 @@
 # Regex Tutorial: Understanding and Usage of URL Pattern Matching
 
-##Introduction
+## Introduction
 Welcome to this Regex Tutorial: Understanding and Usage of URL Pattern Matching.
 In this tutorial, we'll take a close look at regular expressions (regex), learning how to craft and employ them effectively to match and analyze URLs. With the growing importance of web-based applications, understanding URL pattern matching is a fundamental skill for developers. By the end of this tutorial, you'll possess a solid foundation in URL regex patterns and the practicality of its usage in web development. 
 
