@@ -66,6 +66,10 @@ With regular expressions, a backreference is a method of matching the same text 
 
 ### Look-ahead and Look-behind
 
+Look-ahead and look-behind assertions are what allow us to check if certain patterns may exist ahead or behind the current position without taking the characters. In our URL regex, these assertions are not used.
+
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Mikayla Rangel and I am a junior developer!
+
+GitHub Repository: https://github.com/mika111420
